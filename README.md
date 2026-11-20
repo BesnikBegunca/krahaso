@@ -39,8 +39,6 @@ npm run web        # versioni web → http://localhost:3210
 npm run dist       # krijon .exe në dosjen dist/
 ```
 
-Në Windows mund të klikosh edhe `Nis-Krahaso.bat`, `Nis-Web.bat` ose `Krijo-EXE.bat`.
-
 ### Versioni web
 
 `npm run web` nis serverin dhe hap faqen në shfletues. Nga telefoni ose kompjuterë të tjerë në të njëjtin Wi‑Fi hape adresën me IP që shfaqet (p.sh. `http://192.168.1.20:3210`).
