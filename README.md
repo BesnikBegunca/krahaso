@@ -6,10 +6,6 @@ Krahaso kërkon njëherësh në disa dyqane online (Gjirafa50, 75mall, Foleja, N
 
 Funksionon si **aplikacion desktop (Windows)** dhe si **faqe web** — i njëjti kod, i njëjti dizajn.
 
-🎬 **Videoja demo:** [video/Krahaso-demo.mp4](video/Krahaso-demo.mp4)
-
-![Kërkimi dhe rekomandimi](docs/kerkimi.png)
-
 ## Çfarë bën
 
 - **Kërkim i zgjuar sipas llojit** — "laptop" tregon vetëm laptopë (jo çanta, karikues, RAM për laptop); "kompjuter" / "computer" / "pc" tregon vetëm kompjuterë të plotë. Për aksesorë shkruaje qartë, p.sh. "çantë laptop". Njëjtë për telefona, TV, monitorë, printerë, lavatriçe, frigoriferë, kondicionerë.
@@ -19,10 +15,6 @@ Funksionon si **aplikacion desktop (Windows)** dhe si **faqe web** — i njëjti
 - **PC në 3D** — çdo pjesë që zgjidhet montohet me animacion; ndërsa kërkohet shfaqet si hologram; kur montohen pjesët kryesore, PC-ja "ndizet" (RGB, ventilatorë).
 - **Ndjekja e çmimeve** — kliko 🔔 te një produkt dhe merr njoftim kur bie çmimi.
 - **Linqet e tua** — ngjit linkun e një produkti nga çdo website dhe futet në krahasim.
-
-![Kërkimi sipas markës](docs/marka.png)
-
-![Kompleto PC në 3D](docs/kompleto-pc-3d.png)
 
 ## Shkarko (Windows)
 

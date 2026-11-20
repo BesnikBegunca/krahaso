@@ -7,3 +7,5 @@ Thumbs.db
 # skedarë lokalë (nisës për Windows dhe udhëzime) — nuk publikohen
 *.bat
 LEXOME.txt
+docs/
+video/
